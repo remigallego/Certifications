@@ -1,2 +1,3 @@
 # certifications
-A collection of certifications delivered to me.
+
+Certificates from courses and organizations I have earned.
